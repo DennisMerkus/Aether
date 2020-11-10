@@ -1,2 +1,2 @@
 # Aether
-Ontology for Natural Language Processing &amp; Generation for agent-based game AI.
+Ontology for Natural Language Processing & Generation for agent-based game AI.
